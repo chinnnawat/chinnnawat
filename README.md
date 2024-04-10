@@ -5,9 +5,9 @@
 </div
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chinnnawat&label=Profile%20views&color=0e75b6&style=flat" alt="chinnnawat" /> </p>
 
-- 🔭 I’m currently working on **Web Application , Mobile App By Flutter+Golang**
+- 🔭 I’m currently working on **Web Application**
 
-- 🌱 I’m currently learning **Golang,Flutter**
+- 🌱 I’m currently learning **JAVA**
 
 - 📫 How to reach me **chinnawat.wongket@gmail.com**
 
