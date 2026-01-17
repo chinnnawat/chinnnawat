@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on **Web Application**
 
-- 🌱 I’m currently learning **JAVA**
-
 - 📫 How to reach me **chinnawat.wongket@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
